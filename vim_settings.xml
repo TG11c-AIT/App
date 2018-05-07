@@ -13,12 +13,17 @@
       <file name="$USER_HOME$/PycharmProjects/untitled1/Test.py" timestamp="1525368926477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525374235089">
+      <file name="/Dummy.txt" timestamp="1525697493164">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/App/App/TestApp.py" timestamp="1525697415569">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Test/Test Ver.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/App/App/TestApp.py" />
     </jumps>
     <registers>
       <register name="1" type="4">

@@ -16,7 +16,7 @@
       <file name="/Dummy.txt" timestamp="1525698880310">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/App/TestApp.py" timestamp="1525698640146">
+      <file name="$USER_HOME$/PycharmProjects/App/TestApp.py" timestamp="1525704526937">
         <mark key="[" line="0" column="0" />
         <mark key="l" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -36,7 +36,8 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CnRyeTo=</text>
+        <text>print(&quot;Hello&quot;)
+print(&quot;My name is jeff&quot;)</text>
       </register>
       <register name="a" type="4">
         <keys>
@@ -58,10 +59,14 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text />
+      <register name="&quot;" type="4">
+        <text>print(&quot;Hello&quot;)
+print(&quot;My name is jeff&quot;)</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">CnRyeTo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ZXJnID0geSArIHgK</text>
       </register>
       <register name="e" type="4">

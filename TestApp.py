@@ -1,2 +1,2 @@
-print("Hello")
-print("My name is jeff")
+# todo: Make a Application that is good.
+# todo: be a god.

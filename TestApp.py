@@ -6,6 +6,9 @@ def test(wert1, wert2):
     if(wert1==wert2):
         true = "true"
         return true
+    else:
+        true = "false"
+        return true
 
 wert1 = input("Please enter a digit: ")
 wert2 = input("Please enter a digit: ")
